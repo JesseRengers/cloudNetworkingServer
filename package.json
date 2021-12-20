@@ -1,0 +1,22 @@
+{
+  "name": "cloudnetworkingserver",
+  "version": "1.0.0",
+  "description": "Realy simple nodejs server that is contacted by the client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseRengers/cloudNetworkingServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesseRengers/cloudNetworkingServer/issues"
+  },
+  "homepage": "https://github.com/JesseRengers/cloudNetworkingServer#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
